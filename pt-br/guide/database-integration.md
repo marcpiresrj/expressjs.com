@@ -89,7 +89,7 @@ books.list(function(err, body){
 $ npm install level levelup leveldown
 ~~~
 
-**Examplo**
+**Exemplo**
 
 ~~~js
 var levelup = require('levelup');
@@ -117,7 +117,7 @@ db.put('name', 'LevelUP', function (err) {
 $ npm install mysql
 ~~~
 
-**Examplo**
+**Exemplo**
 
 ~~~js
 var mysql      = require('mysql');
@@ -148,7 +148,7 @@ connection.end();
 $ npm install mongoskin
 ~~~
 
-**Examplo**
+**Exemplo**
 
 ~~~js
 var db = require('mongoskin').db('localhost:27017/animals');
